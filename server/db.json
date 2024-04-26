@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "User1"
+    },
+    {
+      "id": 2,
+      "name": "User2"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Spanish"
+    },
+    {
+      "id": 2,
+      "name": "History"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 99,
+      "address": "Nowhere"
+    },
+    {
+      "id": 2,
+      "name": "Jason Bourne",
+      "age": 34,
+      "address": "Unknown"
+    },
+    {
+      "id": 3,
+      "name": "William Norton",
+      "age": 38,
+      "address": "One Secret Place"
+    },
+    {
+      "name": "Mark Smith",
+      "age": 34,
+      "address": "The New City",
+      "id": 4
+    },
+    {
+      "name": "Roland Carter",
+      "age": 99,
+      "address": "Who knows",
+      "id": 5
+    },
+    {
+      "name": "Orlando Cisneros",
+      "age": 55,
+      "address": "Who knows",
+      "id": 6
+    },
+    {
+      "name": "Miguel Trigueros",
+      "age": 34,
+      "address": "who knows",
+      "id": 7
+    }
+  ]
+}
